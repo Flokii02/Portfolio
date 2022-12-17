@@ -116,34 +116,34 @@ body {
     margin-top: 10px;
     }
     header ul {
-        display: none;
-      }
-      .toggle {
-        display: block;
-      }
-      .toggle:before {
-        content: "Menu";
-        font-weight: bold;
-      }
-      ul.active {
-        display: block;
-        position: absolute;
-        top: 60px;
-        left: 0;
-        right: 0;
-        background-color: white;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        padding: 0;
-      }
-      ul.active li {
-        margin: 0;
-        display: block;
-        text-align: center;
-      }
-      ul.active li a {
-        display: block;
-        padding: 20px;
-      }
+            display: none;
+          }
+          .toggle {
+            display: block;
+          }
+          .toggle:before {
+            content: "Menu";
+            font-weight: bold;
+          }
+          ul.active {
+            display: block;
+            position: absolute;
+            top: 60px;
+            left: 0;
+            right: 0;
+            background-color: white;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            
+          }
+          ul.active li {
+            margin: 0;
+            display: block;
+            text-align: center;
+          }
+          ul.active li a {
+            display: block;
+            padding: 20px;
+          }
     }
     
     
