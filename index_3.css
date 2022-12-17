@@ -31,8 +31,8 @@ body{
     }
     
     #menu header ul {
-    margin: 0;
-    padding-left: 650px;
+    margin:  0 auto;
+    padding:0;
     display: flex;
     list-style: none;
     }
